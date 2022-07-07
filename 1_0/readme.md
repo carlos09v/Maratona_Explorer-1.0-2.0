@@ -1,4 +1,3 @@
-# Maratona_Explorer 1.0
 # Fazendo Maratona Explorer - 14/06/22
 - Para iniciantes
 
