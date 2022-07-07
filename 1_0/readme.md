@@ -1,4 +1,4 @@
-# Fazendo Maratona Explorer - 14/06/22
+# Maratona Explorer 1.0 - 14/06/22
 - Para iniciantes
 
 # CSS
